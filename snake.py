@@ -1,9 +1,4 @@
 '''
-Author: <Ali Kaif>
-Date: <February 2nd, 2018>
-Class: ISTA 130
-Section Leader: <your section leader>
-
 Description: Snake Program
 <This program is designed to use the turtle methods to draw
 out a snake based on functions designed to draw polygons>
